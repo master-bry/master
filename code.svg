@@ -1,0 +1,23 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="300" fill="white"/>
+
+    <!-- Snake body -->
+    <path d="M 50 150 Q 100 50, 150 150 T 250 150 T 350 150" 
+          fill="none" stroke="black" stroke-width="2"/>
+
+    <!-- Contribution grid squares -->
+    <rect x="50" y="150" width="20" height="20" fill="#e0f7fa"/>
+    <rect x="70" y="150" width="20" height="20" fill="#b2ebf2"/>
+    <rect x="90" y="150" width="20" height="20" fill="#80deea"/>
+    <rect x="110" y="150" width="20" height="20" fill="#4dd0e1"/>
+    <rect x="130" y="150" width="20" height="20" fill="#26c6da"/>
+    <rect x="150" y="150" width="20" height="20" fill="#00bcd4"/>
+    <rect x="170" y="150" width="20" height="20" fill="#00acc1"/>
+    <rect x="190" y="150" width="20" height="20" fill="#0097a7"/>
+    <rect x="210" y="150" width="20" height="20" fill="#00838f"/>
+    <rect x="230" y="150" width="20" height="20" fill="#00796b"/>
+    <rect x="250" y="150" width="20" height="20" fill="#00695c"/>
+    <rect x="270" y="150" width="20" height="20" fill="#004d40"/>
+
+    <text x="100" y="50" font-family="Arial" font-size="24" fill="black">GiT Contribution CiRd</text>
+</svg>
